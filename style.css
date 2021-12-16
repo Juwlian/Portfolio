@@ -56,6 +56,6 @@ nav a:hover{
 p {
     font-size: 20px;
     margin: 20px 0 10px;
-    margin-inline-end: 50px;
-    margin-inline-start: 15px;
+    margin-inline-end: 250px;
+    margin-inline-start: 20px;
 }
